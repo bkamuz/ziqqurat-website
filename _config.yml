@@ -1,0 +1,18 @@
+# Основная конфигурация Jekyll для GitHub Pages
+# Документация: https://jekyllrb.com/docs/configuration/
+
+# Название темы (можно выбрать другую из https://pages.github.com/themes/)
+theme: minima
+
+# Название сайта и описание
+name: Ziqqurat Website
+description: Современный шаблон для GitHub Pages на Markdown
+
+# URL сайта (опционально)
+# url: "https://bkamuz.github.io/ziqqurat-website"
+
+# Локализация
+lang: ru
+
+# Настройки Markdown
+markdown: kramdown
